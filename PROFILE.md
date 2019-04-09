@@ -2,7 +2,7 @@
 ## University of Washington
 ### Freshman
 
-allison.jpg
+![My image] (allison.jpg)
 
 I am a freshman at UW and my intended major is **Informatics**. I'm also interested in **Computer Science**.
 
